@@ -1,0 +1,83 @@
+
+
+.center-table {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+
+    
+
+
+table {
+     
+        border-collapse: collapse;
+        width: 30%; 
+        border: 2px solid black;
+    
+}
+
+
+
+.pen-daftaran {
+    color: red;
+    font-size: xx-large;
+    text-align: center;
+}
+
+.data-diri {
+    text-align: left ;
+    vertical-align: top;
+}
+
+    
+
+    
+    
+
+
+    .text-container {
+        display: flex;
+        align-items: center;
+        margin-bottom: 10px;
+    }
+    
+    .text-container label {
+        margin-right: 80px;
+        cursor: pointer;
+        min-width: 100px; 
+    }
+    
+    .text-container input[type="text"] {
+        margin-left: 0;
+    }
+
+    .checkbox-container {
+        display: flex;
+        align-items: center;
+        margin-bottom: 10px;
+    }
+    
+
+    
+    .checkbox-container input[type="checkbox"] {
+        margin-left: 0;
+    }
+    
+
+    
+    .checkbox-container label {
+        margin-right: 40px;
+        cursor: pointer;
+        min-width: 140px; /
+    }
+    
+    
+
+.comment-1 {
+    
+}
+
+
